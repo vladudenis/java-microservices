@@ -30,5 +30,4 @@
   - Docker
   - Kubernetes
 
-Source: https://www.youtube.com/watch?v=p485kUNpPvE&list=PLwvrYc43l1Mwqpf9i-1B1gXfMeHOm6DeY
-(The actual course I followed is in the description of the video)
+Source: https://amigoscode.com/p/microservices
